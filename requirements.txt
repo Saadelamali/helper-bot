@@ -1,0 +1,6 @@
+disnake
+requests
+motor
+tornado
+pymongo==3.12.3
+dnspython
