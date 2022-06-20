@@ -1,0 +1,8 @@
+{
+    "token" : "your bot token",
+    "mongodb_url" : "create a cluster at mongodb.com and get the url",
+    "prefix" : "your prefix",
+    "customstatus" : "With Bumper",
+    "failed" : "<:zeroon1no:866375710130044968>",
+    "succeed" : "<:zeroon1yes:866375654751338516>"                
+}
