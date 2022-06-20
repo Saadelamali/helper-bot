@@ -19,7 +19,7 @@ class buttons(disnake.ui.View):
    
    async def on_timeout(self):
       self.clear_items()
-      self.message.edit(view = self)
+      await self.message.edit(view = self)
       try:
          embed = disnake.Embed(
             title = "Timed Out!",
